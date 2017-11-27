@@ -1,0 +1,43 @@
+.white {
+	color: #fff;
+}
+
+ul {
+	list-style: none;
+	text-align: right;
+}
+
+li {
+	float: left;
+	color: #9A9DA0;
+	padding-left: 15px;
+}
+
+li:hover {
+	color: #fff;
+}
+
+.no-pad {
+	padding: 0;
+}
+
+nav {
+	background-color: #343A40;
+}
+
+#main {
+	height: 520px;
+	background-image: url(../img/header.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+img {
+	width: 444px;
+	border-radius: 222px;
+}
+
+footer {
+	background-color: #343A40;
+}
